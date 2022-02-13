@@ -1,0 +1,6 @@
+C:\Users\yunus\Desktop\code\c#\NumberAnalysis3Or4Step\NumberAnalysis3Or4Step\bin\Debug\NumberAnalysis3Or4Step.exe
+C:\Users\yunus\Desktop\code\c#\NumberAnalysis3Or4Step\NumberAnalysis3Or4Step\bin\Debug\NumberAnalysis3Or4Step.pdb
+C:\Users\yunus\Desktop\code\c#\NumberAnalysis3Or4Step\NumberAnalysis3Or4Step\obj\Debug\NumberAnalysis3Or4Step.csproj.AssemblyReference.cache
+C:\Users\yunus\Desktop\code\c#\NumberAnalysis3Or4Step\NumberAnalysis3Or4Step\obj\Debug\NumberAnalysis3Or4Step.csproj.CoreCompileInputs.cache
+C:\Users\yunus\Desktop\code\c#\NumberAnalysis3Or4Step\NumberAnalysis3Or4Step\obj\Debug\NumberAnalysis3Or4Step.exe
+C:\Users\yunus\Desktop\code\c#\NumberAnalysis3Or4Step\NumberAnalysis3Or4Step\obj\Debug\NumberAnalysis3Or4Step.pdb

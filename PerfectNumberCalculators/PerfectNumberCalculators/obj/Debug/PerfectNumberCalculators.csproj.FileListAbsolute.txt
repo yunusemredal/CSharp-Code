@@ -1,0 +1,6 @@
+C:\Users\yunus\Desktop\code\c#\PerfectNumberCalculators\PerfectNumberCalculators\bin\Debug\PerfectNumberCalculators.exe
+C:\Users\yunus\Desktop\code\c#\PerfectNumberCalculators\PerfectNumberCalculators\bin\Debug\PerfectNumberCalculators.pdb
+C:\Users\yunus\Desktop\code\c#\PerfectNumberCalculators\PerfectNumberCalculators\obj\Debug\PerfectNumberCalculators.csproj.AssemblyReference.cache
+C:\Users\yunus\Desktop\code\c#\PerfectNumberCalculators\PerfectNumberCalculators\obj\Debug\PerfectNumberCalculators.csproj.CoreCompileInputs.cache
+C:\Users\yunus\Desktop\code\c#\PerfectNumberCalculators\PerfectNumberCalculators\obj\Debug\PerfectNumberCalculators.exe
+C:\Users\yunus\Desktop\code\c#\PerfectNumberCalculators\PerfectNumberCalculators\obj\Debug\PerfectNumberCalculators.pdb
